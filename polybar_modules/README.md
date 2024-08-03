@@ -1,6 +1,10 @@
 # Polybar modules
 
 
+## What is a 'polybar'?
+Polybar is a tool that creates status bars for i3 and other desktop environments. More details here: [link](https://github.com/polybar/polybar).
+
+
 ## The OpenWeatherMap module
 - It uses this free API endpoint: [link](https://openweathermap.org/current).
 - Get your free key here (you need to create an account): [link](https://home.openweathermap.org/api_keys).
